@@ -1,2 +1,3 @@
-# entrega-final
-Examen final de Diseño y Nuevos Medios (DNO037)
+# Diseño y Nuevos Medios (DNO037)
+
+¡Examen final!
